@@ -1,0 +1,16 @@
+C:\Users\Weabo\source\repos\bot+bd\obj\Debug\bot+bd.csprojAssemblyReference.cache
+C:\Users\Weabo\source\repos\bot+bd\obj\Debug\bot+bd.csproj.CoreCompileInputs.cache
+C:\Users\Weabo\source\repos\bot+bd\bin\Debug\bot+bd.exe.config
+C:\Users\Weabo\source\repos\bot+bd\bin\Debug\bot+bd.exe
+C:\Users\Weabo\source\repos\bot+bd\bin\Debug\bot+bd.pdb
+C:\Users\Weabo\source\repos\bot+bd\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Weabo\source\repos\bot+bd\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Weabo\source\repos\bot+bd\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Weabo\source\repos\bot+bd\bin\Debug\Telegram.Bot.dll
+C:\Users\Weabo\source\repos\bot+bd\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Weabo\source\repos\bot+bd\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Weabo\source\repos\bot+bd\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Weabo\source\repos\bot+bd\bin\Debug\Telegram.Bot.xml
+C:\Users\Weabo\source\repos\bot+bd\obj\Debug\bot+bd.csproj.CopyComplete
+C:\Users\Weabo\source\repos\bot+bd\obj\Debug\bot+bd.exe
+C:\Users\Weabo\source\repos\bot+bd\obj\Debug\bot+bd.pdb
